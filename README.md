@@ -1,3 +1,5 @@
+![鹈鹕骑车](assets/cover.jpg)
+
 # 鹈鹕骑车 🚲 · 3D Pelican Riding a Bicycle
 
 A tiny Three.js scene: a helmeted pelican pedalling a bicycle around a looping road.
